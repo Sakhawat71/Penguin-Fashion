@@ -2,3 +2,43 @@
     height: 40px;
     width: 292px;
 }
+.h1col{
+    color: #F2994A;
+    font-size: 60px;
+    margin-top: 50px;
+}
+.main,.nav1{
+    padding-top: 20px;
+    background-color: #FFFBF0;
+}
+.nvalink{
+    margin-left: 20px;
+    
+}
+span{
+    color: #363958;
+}
+.button1{
+    background-color: #A4BC46;
+    width: 165px;
+    height: 58px;
+    border-radius: 15px;
+    border: none ;
+    color: whitesmoke;
+}
+.greengirl{
+    width: 450px;
+    margin-left: 50px;
+    
+}
+button > img{
+    width: 25px;
+}
+.card{
+    padding: 15px;
+
+}
+.price{
+    color: #FABE4C;
+  
+}
