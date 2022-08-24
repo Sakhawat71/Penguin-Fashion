@@ -37,9 +37,6 @@ button > img{
 .card{
     padding: 15px;
 }
-.card-footer-custom{
-    background-color: #F1F1F1;
-}
 .price{
     color: #FABE4C;
   
@@ -63,4 +60,7 @@ button > img{
 }
 .last-img {
     margin-left: 20px;
+}
+.round-border{
+    border-radius: 25px !important;
 }
