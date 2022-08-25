@@ -46,7 +46,6 @@ button > img{
     height: 350px;
     background-color: #F1F1F1;
     border-radius: 15px;
-    /* margin-left: 14px; */
 }
 .footer-img{
     width: 70px;
@@ -105,5 +104,19 @@ button > img{
         height: 450px;
         padding: 20px;
     }
-    
+    .card-title{
+        font-size: 30px;
+    }
+    .card-text{
+        font-size: 22px;
+    }
+    .jacket-head{
+        text-align: center;
+    }
+    .card{
+        margin: 30px 25px;
+    }
+    .last-part{
+        float: right;
+    }
 }
