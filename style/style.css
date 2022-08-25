@@ -46,7 +46,7 @@ button > img{
     height: 350px;
     background-color: #F1F1F1;
     border-radius: 15px;
-    margin-left: 14px;
+    /* margin-left: 14px; */
 }
 .footer-img{
     width: 70px;
@@ -63,4 +63,47 @@ button > img{
 }
 .round-border{
     border-radius: 25px !important;
+    align-items: center ;
+}
+@media (max-width: 1200px){
+    .img{
+        width: 240px;
+        height: 320px;
+    }
+    
+    .media{
+        width: 200px;
+    }
+}
+
+
+@media (max-width: 992px){
+    .img{
+        width: 200px;
+        height: 250px;
+    }
+    .jacket-head{
+        padding-top: 50px;
+    }
+    .last-img{
+        width: 100%;
+    }
+    
+}
+@media (max-width: 768px){
+    .media{
+        width: 280px;
+        align-items: center;
+    }
+    .price{
+        font-size: bold;
+        font-weight: 900;
+        font-size: 35px;
+    }
+    .img{
+        width: 400px;
+        height: 450px;
+        padding: 20px;
+    }
+    
 }
