@@ -64,6 +64,13 @@ button > img{
     border-radius: 25px !important;
     align-items: center ;
 }
+
+#man-jacket-3{
+    width: 95%;
+}
+
+
+
 @media (max-width: 1200px){
     .img{
         width: 240px;
